@@ -6,6 +6,7 @@ A starter for Gatsby that includes:
 - `gatsby-browser.js` and `gatsby-ssr.js` files for wrapping content in `<Layout>`.
 - `normalize.css` for setting up a nice baseline to work from.
 - `styled-components` for scoped styles, but also a `GlobalStyles.js` for defining, well, global styles.
+- `stylelint` with the `order` plugin, using SMACSS rules for setting the correct order
 
 ## Git Styleguide
 
@@ -41,4 +42,4 @@ The footer is optional and is used to reference issue tracker IDs.
 
 ## To do:
 
-- [ ] Add stylelint with autoformatting and ordering
+- [x] Add stylelint with autoformatting and ordering
