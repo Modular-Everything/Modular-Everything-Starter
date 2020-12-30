@@ -11,7 +11,7 @@ A starter for Gatsby that includes:
 
 This repo follows the [Udacity style guide](http://udacity.github.io/git-styleguide/) for commit messaging.
 
-A quick summary of the types are here for reference:
+A quick summary of the `type`s are here for reference:
 
 > - **feat**: A new feature
 > - **fix**: A bug fix
@@ -20,6 +20,24 @@ A quick summary of the types are here for reference:
 > - **refactor**: Refactoring production code
 > - **test**: Adding tests, refactoring test; no production code change
 > - **chore**: Updating build tasks, package manager configs, etc; no production code change
+
+And a rough template to use:
+
+```
+type: This is the subject line
+
+(body)
+This would be a 72 character summary of the commit.
+
+It can exist a cross multiple lines and can...
+
+- Also
+- Use
+- Bullets!
+
+(footer)
+The footer is optional and is used to reference issue tracker IDs.
+```
 
 ## To do:
 
