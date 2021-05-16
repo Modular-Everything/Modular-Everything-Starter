@@ -12,6 +12,7 @@ const Layout = ({ children }) => (
     <GlobalStyles />
     <Typography />
 
+    <Header />
     <main>{children}</main>
   </>
 );
